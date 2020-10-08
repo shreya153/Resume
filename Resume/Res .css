@@ -1,0 +1,180 @@
+.profile{
+	width: 100%;
+	}
+.profilepic {
+    height: 250px;
+    width: 17%;
+    float: left;
+}
+
+.profilepic img {
+    height: 250px;
+    width: 100%;
+}
+
+.name {
+    width: 83%;
+    float: right;
+    padding: 18px;
+    background: #05386B;
+    height: 133px;
+}
+.name h1 {
+    color: white;
+    font-family: 'Piazzolla', cursive;
+    text-align: center;
+    font-size: 50px;
+}
+.skills {
+    float: left;
+    text-align: center;
+    padding: 35px;
+    margin-left: 102px;
+}
+.interest{
+	text-align: center;
+	padding: 35px;
+	float: left;
+}
+.hobbies{
+	text-align: center;
+	padding: 35px;
+	float: left;
+}
+.skills h2{
+	color: black;
+	font-family: 'Zilla Slab', serif;
+}
+.interest h2{
+	color: black;
+	font-family: 'Zilla Slab', serif;
+}
+.hobbies h2{
+	font-family: 'Zilla Slab', serif;
+	color: black;	
+}
+.skills p{
+	font-family: 'Sansita Swashed', cursive;
+	font-size: 20px;
+}
+.interest p{
+	font-family: 'Sansita Swashed', cursive;
+	font-size : 20px;
+}
+.hobbies p{
+	font-family: 'Sansita Swashed', cursive;
+	font-size: 20px;
+}
+.head1 {
+	width: 100%;
+	float: left;
+}
+.head1 h2 {
+    font-size: 42px;
+    font-family: 'David Libre', -webkit-pictograph;
+}
+.head1 h4{
+	color: #123C69;
+	font-family: 'David Libre', -webkit-pictograph;
+	font-size: 30px;
+	
+}
+
+.profession h3 {
+    color: white;
+    font-family: 'Piazzolla', -webkit-pictograph;
+    text-align: left;
+    font-size: x-large;
+}
+.profession {
+    padding: 21px;
+    background: #379;
+    width: 83%;
+    float: right;
+    height: 116px;
+}
+
+.contact{
+	float: left;
+	width: 100%;
+}
+.pi{
+    float: right;
+    padding: 33px;
+    width: 30%;
+    margin-right: 35px;
+}
+.pi h2{
+	font-family: 'Acme', sans-serif;
+}
+.pi h5{
+	font-family: 'Domine', serif;
+}
+
+.pi p {
+    padding: 5px;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 20px;
+}
+
+
+.roll{
+	width: 100%;
+    float: left;
+    height: 98px;
+}
+.employment{
+	width: 30%;
+	float: left;
+	background: #379;
+	height: 210px;
+}
+
+.employment h2 {
+    color: white;
+    font-family: 'Merriweather',cursive;
+    text-align: center;
+}
+
+.percentage{
+	float: left;
+	width: 70%;
+	height: 210px;
+	background:#05386B;
+}
+
+.employment h4{
+	padding: 22px;
+	color: white;
+	font-family: 'Piazzolla', cursive;
+}
+
+.percentage h2{
+	color: white;
+	font-family: 'Merriweather',cursive;
+	text-align: center;
+}
+
+.dot {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border-radius: 100%;
+    padding: 18px;
+    margin-left: 170px;
+    margin-top: 15px;
+    display: inline-block;
+    text-align: center;
+}
+
+.dot h2{
+	color: black;
+}
+
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #8EE4AF;
+}
